@@ -18,3 +18,13 @@ void main()
 }
 
 ``` 
+
+# Task list about activities
+- [x] means completed
+- [ ] means to be completed
+
+- [x] Activity 1 : Add headers       
+- [x] Activity 2 : Add an Image      
+- [x] Activity 3 : Add a ckde example
+
+
